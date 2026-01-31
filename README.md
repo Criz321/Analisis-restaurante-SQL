@@ -43,7 +43,7 @@ Cruzando la información de pedidos con los precios del menú, se identificaron 
 *Insight:* Al analizar el detalle del pedido #440 (el más alto), se puede observar una preferencia marcada por ciertas categorías, lo que ayuda a definir el perfil de un cliente de alto valor.
 
 ## 💾 Código SQL
-El análisis completo se encuentra en la carpeta `scripts/`. A continuación, un ejemplo de cómo identifiqué el gasto por pedido:
+El análisis completo se encuentra en el`scripts/` .sql. A continuación, un ejemplo de cómo identifiqué el gasto por pedido:
 
 ```sql
 SELECT TOP 5
